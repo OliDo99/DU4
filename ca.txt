@@ -1,0 +1,50 @@
+##############
+PLAYER 1
+Name: Zach
+Surname: Whitecloud
+Number: 2
+##############
+PLAYER 2
+Name: Nick
+Surname: Holden
+Number: 5
+##############
+PLAYER 3
+Name: Travis
+Surname: Sanheim
+Number: 6
+##############
+PLAYER 4
+Name: Nicolas
+Surname: Roy
+Number: 10
+##############
+PLAYER 5
+Name: Matt
+Surname: Barzal
+Number: 13
+##############
+PLAYER 6
+Name: Morgan
+Surname: Geekie
+Number: 16
+##############
+PLAYER 7
+Name: Adam
+Surname: Lowry
+Number: 17
+##############
+PLAYER 8
+Name: Dawson
+Surname: Mercer
+Number: 18
+##############
+PLAYER 9
+Name: Drake
+Surname: Batherson
+Number: 19
+##############
+PLAYER 10
+Name: Eric
+Surname: O'Dell
+Number: 22

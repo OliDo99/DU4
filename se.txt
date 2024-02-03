@@ -1,0 +1,50 @@
+##############
+PLAYER 1
+Name: Adam
+Surname: Janosik
+Number: 3
+##############
+PLAYER 2
+Name: Simon
+Surname: Nemec
+Number: 5
+##############
+PLAYER 3
+Name: Martin
+Surname: Fehervary
+Number: 6
+##############
+PLAYER 4
+Name: Mario
+Surname: Grman
+Number: 7
+##############
+PLAYER 5
+Name: Adam
+Surname: Sykora
+Number: 10
+##############
+PLAYER 6
+Name: Michal
+Surname: Kristof
+Number: 13
+##############
+PLAYER 7
+Name: Peter
+Surname: Ceresnak
+Number: 14
+##############
+PLAYER 8
+Name: Jakub
+Surname: Minarik
+Number: 15
+##############
+PLAYER 9
+Name: Robert
+Surname: Lantosi
+Number: 16
+##############
+PLAYER 10
+Name: Juraj
+Surname: Slafkovsky
+Number: 20

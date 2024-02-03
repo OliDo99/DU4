@@ -1,0 +1,50 @@
+##############
+PLAYER 1
+Name: Ville
+Surname: Pokka
+Number: 2
+##############
+PLAYER 2
+Name: Niklas
+Surname: Friman
+Number: 3
+##############
+PLAYER 3
+Name: Mikko
+Surname: Lehtonen
+Number: 4
+##############
+PLAYER 4
+Name: Joel
+Surname: Armia
+Number: 10
+##############
+PLAYER 5
+Name: Jere
+Surname: Innala
+Number: 21
+##############
+PLAYER 6
+Name: Esa
+Surname: Lindell
+Number: 23
+##############
+PLAYER 7
+Name: Hannes
+Surname: Bjorninen
+Number: 24
+##############
+PLAYER 8
+Name: Toni
+Surname: Rajala
+Number: 29
+##############
+PLAYER 9
+Name: Frans
+Surname: Tuohimaa
+Number: 35
+##############
+PLAYER 10
+Name: Juuso
+Surname: Hietanen
+Number: 38

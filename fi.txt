@@ -1,0 +1,50 @@
+##############
+PLAYER 1
+Name: Lukas
+Surname: Dostal
+Number: 2
+##############
+PLAYER 2
+Name: David
+Surname: Jiricek
+Number: 5
+##############
+PLAYER 3
+Name: Michal
+Surname: Kempny
+Number: 6
+##############
+PLAYER 4
+Name: David
+Surname: Sklenicka
+Number: 9
+##############
+PLAYER 5
+Name: Roman
+Surname: Cervenka
+Number: 10
+##############
+PLAYER 6
+Name: Jiri
+Surname: Cernoch
+Number: 12
+##############
+PLAYER 7
+Name: Jakub
+Surname: Vrana
+Number: 13
+##############
+PLAYER 8
+Name: Filip
+Surname: Hronek
+Number: 17
+##############
+PLAYER 9
+Name: Jakub
+Surname: Flek
+Number: 19
+##############
+PLAYER 10
+Name: Hynek
+Surname: Zohorna
+Number: 20
